@@ -13,8 +13,8 @@ Recibe un número binario de 4 entradas y regresa una salida de 7 segmentos
 
 ## How to test
 
-Explain how to use your project
+Seleccionas un bit en la entrada del 1 al 4, a la salida obtendrás un dígito
 
 ## External hardware
 
-List external hardware used in your project (e.g. PMOD, LED display, etc), if any
+Un display de 7 segmentos
