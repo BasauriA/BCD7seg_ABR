@@ -1,7 +1,8 @@
 # Tiny Tapeout project information
 project:
-  title: 481508958266224641    # Project title
-  author:       "BCD 7 seg ABR"      # Your name
+  workwi_id: 481508958266224641
+  title:  "BCD 7 seg ABR"   # Project title
+  author:       "Alexander Basauri Romero"      # Your name
   discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Convertir binario a 7 segmentos"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
