@@ -3,7 +3,7 @@ project:
   workwi_id: 481508958266224641
   title:  "BCD 7 seg ABR"   # Project title
   author:       "Alexander Basauri Romero"      # Your name
-  discord:      ""      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
+  discord:      " "      # Your discord username, for communication and automatically assigning you a Tapeout role (optional)
   description:  "Convertir binario a 7 segmentos"      # One line description of what your project does
   language:     "Wokwi" # other examples include SystemVerilog, Amaranth, VHDL, etc
   clock_hz:     0       # Clock frequency in Hz (or 0 if not applicable)
