@@ -9,7 +9,7 @@ You can also include images in this folder and reference them in the markdown. E
 
 ## How it works
 
-Explain how your project works
+Recibe un número binario de 4 entradas y regresa una salida de 7 segmentos
 
 ## How to test
 
